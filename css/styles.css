@@ -8,12 +8,12 @@
 }
 /* Variables */
 :root {
-    --main-color:rgba(30, 5, 75, 0.904);
+    --main-color:rgba(28, 6, 68, 0.904);
     --main-text-color:#FFF;
-    --border-color:#410c88;
-    --bio-bg-color:#8f0771;
-    --bio-border-color:#1d0458;
-    --about-bg-color:#bb65a5;
+    --border-color:#84709e;
+    --bio-bg-color:#7c066c;
+    --bio-border-color:#2b0f6d;
+    --about-bg-color:#f70eeb;
 }
 
 /* General */
