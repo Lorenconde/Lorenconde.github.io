@@ -8,12 +8,12 @@
 }
 /* Variables */
 :root {
-    --main-color:rgba(42, 4, 51, 0.904);
-    --main-text-color:#fff;
-    --border-color:#84709e;
-    --bio-bg-color:#7c066c;
-    --bio-border-color:#2b0f6d;
-    --about-bg-color:#daa6af;
+    --main-color:rgba(100, 30, 102, 0.74);
+    --main-text-color:#ffff;
+    --border-color:#630764;
+    --bio-bg-color:#8d2a8de0;
+    --bio-border-color:#dd99e6;
+    --about-bg-color:#c781c1;
 }
 
 /* General */
@@ -58,9 +58,9 @@
 }
 
 #bio-image {
-    width: 175px;
-    height: 175px;
-    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%; 
     margin-bottom: 25px;
 }
 
