@@ -8,12 +8,12 @@
 }
 /* Variables */
 :root {
-    --main-color:rgba(100, 30, 102, 0.74);
+    --main-color:rgba(52, 6, 219, 0.74);
     --main-text-color:#ffff;
-    --border-color:#630764;
-    --bio-bg-color:#8d2a8de0;
-    --bio-border-color:#dd99e6;
-    --about-bg-color:#c781c1;
+    --border-color:#D2B48C;
+    --bio-bg-color:#1b1a1de0;
+    --bio-border-color:#F8E7D3;
+    --about-bg-color:#504c5fc5;
 }
 
 /* General */
@@ -60,7 +60,7 @@
 #bio-image {
     width: 200px;
     height: 200px;
-    border-radius: 10%; 
+    border-radius: 30%; 
     margin-bottom: 25px;
 }
 
