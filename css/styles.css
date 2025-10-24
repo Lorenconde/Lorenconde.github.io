@@ -8,12 +8,12 @@
 }
 /* Variables */
 :root {
-    --main-color:rgba(98, 46, 141, 0.74);
+    --main-color:rgba(70, 24, 107, 0.74);
     --main-text-color:#fff;
-    --border-color:#6959CD;
-    --bio-bg-color:#500505;
+    --border-color:#241397;
+    --bio-bg-color:#514d5ed8;
     --bio-border-color:#fff;
-    --about-bg-color:#8a2424;
+    --about-bg-color:#63597a;
 }
 
 /* General */
@@ -60,7 +60,7 @@
 #bio-image {
     width: 200px;
     height: 200px;
-    border-radius: 30%; 
+    border-radius: 50%; 
     margin-bottom: 25px;
 }
 
